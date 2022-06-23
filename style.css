@@ -1,0 +1,221 @@
+header {
+
+    height: 100px;
+    background: #FFC700;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+
+}
+
+#navbuts {
+
+    position: relative;
+    padding-top: 30px;
+
+}
+
+
+#maint {
+
+    position: relative;
+    width: 441px;
+    height: 21px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+
+}
+
+#subt {
+
+    position:relative;
+    width: 172px;
+    height: 21px;
+    margin-left: auto;
+    margin-right: auto;
+    bottom: 15px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 120px;
+
+}
+
+#Mainicon {
+
+    position: relative;
+    width: 100px;
+    height: 100px;
+
+}
+
+#podr {
+
+    width: 360px;
+    height: 60px;
+
+}
+
+footer {
+
+    height: 200px;
+    background: #000000;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 10px;
+    color: white;
+
+}
+
+#koricon {
+
+    
+    width: 100px;
+    height: 100px;
+    
+    
+}
+
+#summa {
+
+    
+    padding-top: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+
+}
+
+#navw, #kat, #adr, #socs {
+
+    margin-top: 15px;
+
+}
+
+#copyright {
+
+    margin-top: 170px;
+    margin-bottom: 0px;
+
+}
+
+body {
+
+    font-family: 'Roboto';
+    font-style: normal;
+    background-color: #FFC700;
+
+}
+
+#hea {
+
+    height: 100px;
+
+}
+
+a {
+
+    text-decoration: none;
+    color: #000000;
+
+}
+#footico {
+    
+    width: 50px;
+    height: 50px;
+
+}
+
+#footico2 {
+    width: 85px;
+    height: 55px;
+}
+
+#azaz {
+
+    background-color: lightgrey;
+    padding-right: 20px;
+    box-sizing: unset;
+    text-align: center;
+    
+}
+
+a.list-group-item {
+    background: #E6E6E6;
+    text-align: left;
+    border-radius: 2px;
+}
+
+#kats {
+    background-color: lightgrey;
+    border: 1px;
+    border-style: solid;
+}
+
+#katsitems {
+    background-color: #FFC700;
+}
+
+.card {
+    margin-top: 50px;
+}
+
+.card-img-top {
+    height: 144px;
+    width: 256px;
+}
+
+#filt {
+    border: 1px;
+    border-color: #000000;
+    box-sizing: border-box;
+    padding: 5px;
+    position: relative;
+    border-style: solid;
+    
+}
+a, a:active, a:link, a:visited {
+    text-decoration: none;
+    outline: none;
+    color: #000000;
+}
+
+a:hover {
+    color: #07df00;
+}
+
+#rem {
+    text-align: center;
+}
+
+#remont {
+    background: #FFC700;
+}
+
+#otpr {
+    margin-top: 20px;
+}
+
+#myInput {
+    background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+    background-position: 10px 12px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    width: 100%; /* Full-width */
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    margin-bottom: 12px; /* Add some space below the input */
+}
+
+#myUL {
+    /* Remove default list styling */
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
